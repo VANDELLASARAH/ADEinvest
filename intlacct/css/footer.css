@@ -1,0 +1,94 @@
+.primary-footer {
+    font-family: arial, helvetica, sans-serif !important;
+    background-color: #EEEEEE !important;
+    height: 90px;
+    text-align: right !important;
+    padding: 0px 0px 0px 0px !important;
+    margin: 0px 0px 0px 0px !important;
+    border-top: 1px solid #CCCCCC !important;
+    font-size: 13px !important;
+    font-weight: normal !important;
+}
+
+.primary-footer a:link,
+.primary-footer a:visited {
+    font-family: arial, helvetica, sans-serif !important;
+    text-decoration: none;
+    color: #0F57C2 !important;
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+    font-weight: normal !important;
+}
+
+.primary-footer a:active,
+.primary-footer a:focus {
+    font-family: arial, helvetica, sans-serif !important;
+    text-decoration: underline;
+    color: #E74600 !important;
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+    font-weight: normal !important;
+}
+
+.primary-footer a:hover {
+    font-family: arial, helvetica, sans-serif !important;
+    text-decoration: underline;
+    color: #0F57C2 !important;
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+}
+
+.primary-footer .fid-logo {
+    float: left !important;
+    padding: 0px 0px 0px 0px !important;
+    margin: 9px 0px 0px 15px !important;
+}
+
+.primary-footer p {
+    font-family: arial, helvetica, sans-serif !important;
+    margin: 0px 0px 0px 0px !important;
+    font-size: 85% !important;
+    color: #666666 !important;
+    text-align: right !important;
+    text-decoration: none !important;
+    font-weight: normal !important;
+}
+
+.primary-footer .copyright {
+    font-family: arial, helvetica, sans-serif !important;
+    padding: 0px 0px 2px 0px !important;
+    margin: 11px 7px 0px 0px !important;
+}
+
+.primary-footer .rights {
+    font-family: arial, helvetica, sans-serif !important;
+    padding: 0px 0px 0px 0px !important;
+    margin: 2px 7px 0px 0px !important;
+}
+
+.primary-footer ul {
+    margin: 4px 6px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+}
+
+.primary-footer .first {
+    font-family: arial, helvetica, sans-serif !important;
+    font-weight: normal !important;
+    list-style-type: none !important;
+    display: inline !important;
+    font-size: 85% !important;
+    background: none !important;
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+}
+
+.primary-footer ul li {
+    font-family: arial, helvetica, sans-serif !important;
+    font-weight: normal !important;
+    list-style-type: none !important;
+    display: inline !important;
+    font-size: 85% !important;
+    background: transparent url(../images/pipe.gif) no-repeat scroll 0 50% !important;
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 4px !important;
+}
